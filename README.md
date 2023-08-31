@@ -1,4 +1,4 @@
 # first-repo
-repository for web apps<br>
-hemanth yallanki<br>
-Northwest<br>
+repository for web apps
+name=hemanth yallanki
+Northwest Missouri State University
